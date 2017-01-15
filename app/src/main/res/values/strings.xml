@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GalgespilAflevering</string>
+    <string name="image">Image</string>
+    <string name="afslut_spil">Afslut Spil</string>
+    <string name="launchgame">LaunchGame</string>
+    <string name="textview">TextView</string>
+    <string name="hj_lp">Hjælp</string>
+    <string name="infotekst">InfoTekst</string>
+    <string name="play">Play</string>
+    <string name="skriv_et_bogstav_her">Skriv et bogstav her:</string>
+    <string name="nyt_ord">Nyt Ord</string>
+</resources>

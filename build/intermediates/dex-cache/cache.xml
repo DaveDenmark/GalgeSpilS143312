@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_bed612690553d7331b350f31d8df09b18b48765f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f86d9f598177132bd2cb07e47a6bd23770b1743">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_812a223c8d569e6f8c8e0d759c360a711e6d8edc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_dc2df5db257f14a13e4fe7c52f6dc24dd536a49a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d2cf17faf7729915e2fe6227635ef2575ed2a29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_da9adaa3809d3c1270bada046ccc936d109ac205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0318bbeb77abb451831e44aecfb348662772db54">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77c2896d392619af3e681e7e59cc26d1363137bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_907b658f737cd46467cd11ecb970ba06bc78bb25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fa6715d957db99604af3197eee0363f3c97467e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_6a146e4a8929d59cbbf68ef96314686cc4670825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_b94fff7559f08e116065f863647510302df8be63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_66ad73341b35ae9c2431d6382384ad50a4c0ee12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ef767231f93e5c53428dfd59e2f437684df92d8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_bd21113695352aa4cd8614b6115be43d7e92defe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eb5ce43e79464c03c06cd74e5c4f506b7de03e15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_81357df844816f1c41fabfcaddd52b65b5605ab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3fde68d2fdeb7658fcc20628c6c682c60e1bfb4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c560f211e9d4a1a7e79664077306fca5c3795b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5d5c55c7bddca961b3fea716e1d709a8d7220dfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3d93a5ac4b6e00c20cec0dcf7ec6b1ab76ac9098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83124460302292462f4128cb79d4ca8f91fae1b5">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d260a2ee633297db1a3e39ad30c16c52391c7ec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f50a6ba11fd6032dcdfcc0ba79e7105d421275b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_774cb3a7cd59e01e3749ef273f38c1609f10391f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_14afa2bded90ac292691dbc640aa2a7ad2c5281b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f79ba35708dec4b4803e61147ced33b71cd4c5aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ce46f46ced2768ffc90a0ea1b133fefa577be16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_7e6837783581aed5260fd1c907bf7d8dd5a11f4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_70ee87b776d54c16e71e7248f0a57b01e06bfb77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_9b5001c9028c2d6b142906ffd8b40d06d537ab5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a3a48f7ecc852f283802da76fe328055b59a74b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_894d9049b68a8e201a07e28ea6e64a8ba416f180/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee46e5de28e36a555b21b39936e69014aac65c27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_77e5e83e51293e9933c6621493d3fd76ebdfe89e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6106bcbda2272b7c24fcd327d065638547c1b1ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_d46b251f6031c1daf5ec61c271980676be56ef40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c47b4b35f1848801138a03b70df813ed0896d9f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fcd228480b139accaf85532995faa092d89333b">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1bb15b18253cbf447d6231748c60661f8bf05d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/TheDave/Desktop/GalgeVersion2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_da1d916474540c4c2b07f3c995ecfce676899d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e4e22a19b75b1c60232d64685ca84d77e9a7d96d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/TheDave/Downloads/GalgespilAflevering/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_be22c2dcf58c171e33c7b3488a6dcb1a04cc6d4d/classes.dex" />
+    </item>
+
+</items>
