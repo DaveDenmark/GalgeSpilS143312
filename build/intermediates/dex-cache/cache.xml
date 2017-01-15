@@ -66,21 +66,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/TheDave/AndroidStudioProjects/GalgeSpilS143312/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d745aa821af1bb8e981d957cd5ee0672c8616f87">
+        <dex dex="/Users/TheDave/AndroidStudioProjects/GalgeSpilS143312/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41740e2283e307f651c4b9a13fd4dbdc4e7f35fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/TheDave/AndroidStudioProjects/GalgeSpilS143312/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
         <dex dex="/Users/TheDave/AndroidStudioProjects/GalgeSpilS143312/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_16b47463569e1d50dc1d0b6fc92da6cca1f2029d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/TheDave/AndroidStudioProjects/GalgeSpilS143312/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a50ccf792343a2d91b8c95b100a584f68909acd5">
-        <dex dex="/Users/TheDave/AndroidStudioProjects/GalgeSpilS143312/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41740e2283e307f651c4b9a13fd4dbdc4e7f35fd/classes.dex" />
     </item>
     <item
         is-multidex="true"

@@ -135,9 +135,9 @@ public class GameLaunch extends Activity implements View.OnClickListener {
             startActivity(i);
         }
         else if (v == Nytspil) {
-            showDialog();
-            logik.nulstil();
             getAsyncWords();
+            showDialog();
+            //logik.nulstil();
             opdaterSkærm();
             Info2.setText("Se statistik, hvis du vil se hvor mange gange du har spillet");
 
@@ -196,7 +196,7 @@ public class GameLaunch extends Activity implements View.OnClickListener {
     }
     //Skifter aktivitet til GoToDr
     public void GoToDr() {
-        Intent i = new Intent(this, ListActivity.class);
+        Intent i = new Intent(this, Listen.class);
         startActivity(i);
     }
 }
