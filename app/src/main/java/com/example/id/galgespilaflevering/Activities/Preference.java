@@ -24,7 +24,7 @@ public class Preference extends AppCompatActivity {
 
         // Update the TextView
         TextView text = (TextView) findViewById(R.id.text);
-        text.setText("Du har åbnet indstillinger "+counter+" gange.");
+        text.setText("Du har åbnet hjælp siden "+counter+" gange.");
 
 
         TextView text2 = (TextView) findViewById(R.id.text2);

@@ -20,11 +20,18 @@ import com.example.id.galgespilaflevering.logik.Galgelogik;
 public class GameLaunch extends Activity implements View.OnClickListener {
     Galgelogik logik = new Galgelogik();
     private TextView Info, Info2;
-    private Button Play, HelpText, Nytspil, ordfraliste;
+    private Button Play, HelpText, Nytspil;
     private EditText Textedit;
     private ImageView imagestatus;
     ProgressDialog pd;
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if (getIntent().getExtras() != null) {
+            logik.setOrdet(getIntent().getStringExtra("ordet"));
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,10 +68,8 @@ public class GameLaunch extends Activity implements View.OnClickListener {
         HelpText = (Button) findViewById(R.id.button2);
         HelpText.setTextColor(Color.parseColor("#ff0000ff"));
 
-
         Textedit = (EditText) findViewById(R.id.editText);
         Textedit.setTextColor(Color.parseColor("#ff0000ff"));
-
 
         imagestatus = (ImageView) findViewById(R.id.imageView);
         imagestatus.setImageResource(R.drawable.galge);
@@ -135,9 +140,9 @@ public class GameLaunch extends Activity implements View.OnClickListener {
             startActivity(i);
         }
         else if (v == Nytspil) {
-            getAsyncWords();
             showDialog();
-            //logik.nulstil();
+            logik.nulstil();
+            getAsyncWords();
             opdaterSkærm();
             Info2.setText("Se statistik, hvis du vil se hvor mange gange du har spillet");
 
@@ -197,6 +202,9 @@ public class GameLaunch extends Activity implements View.OnClickListener {
     //Skifter aktivitet til GoToDr
     public void GoToDr() {
         Intent i = new Intent(this, Listen.class);
+        //tilføjer logik.getMuligerOrd() til intent for at kunne bruge den i Listen.
+        i.putExtra("muligeord",logik.getMuligeOrd());
+
         startActivity(i);
     }
 }
